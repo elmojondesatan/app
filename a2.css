@@ -1,0 +1,37 @@
+.a3 {
+    width: 455px;
+    height: 88px;
+    gap: 2px;
+}
+
+.k6 {
+    width: 422px;
+    height: 52px;
+    padding: 0px 16px 0px 16px;
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.r1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.r2 {
+    width: 422px;
+    height: 20px;
+    margin: auto;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.f1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
